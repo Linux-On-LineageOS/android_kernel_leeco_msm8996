@@ -198,4 +198,7 @@ source "drivers/bif/Kconfig"
 
 source "drivers/letv/Kconfig"
 
+
+
+source "drivers/lindroid-drm/Kconfig
 endmenu
